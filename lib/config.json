@@ -1,0 +1,7 @@
+{
+    "mongohost" : "localhost",
+    "mongoport" : "27017",
+    "mongouser" : "",
+    "mongopassword" : "",
+    "database" : "explorer"
+}
